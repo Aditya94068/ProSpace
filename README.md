@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ProSpace — Multi-Tenant SaaS Project Management Platform
 
 ProSpace is a production-ready, multi-tenant SaaS project operating system built for college project squads, freelance engineers, agile development teams, and digital agencies.
@@ -121,3 +122,6 @@ USING (public.is_workspace_member(workspace_id));
 
 ## 📄 License
 MIT License. Built with clean, reusable, modular code for modern engineering teams.
+=======
+# ProSpace
+>>>>>>> 4908e8122efe565836d47bc08f3e41a202588a1f
